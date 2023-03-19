@@ -1,0 +1,109 @@
+body{
+    background-color: #efefef;
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: #fff;
+}
+.header-ul > li{
+    display: inline-block;
+  padding: 20px;
+   cursor: pointer;
+}
+.mysidenav{
+    width: 20%;
+    background-color:#fff ;
+    height: 100vh;
+    padding-top: 10px;
+}
+.dp{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+   
+    border-radius: 50%;
+    background-color: aqua;
+}
+.personal-details{
+    text-align: center;
+}
+.other-details{
+    margin-left: 20px;
+}
+.skills{
+    margin-left: 20px;
+}
+.container{
+    display: flex;
+}
+.intro{
+    display: flex;
+    margin-left:  auto;
+    margin-right: auto;
+    background-color: white;
+    width: 75%;
+    height: 300px;
+    padding: 50px;
+}
+.main{
+    width: 75%;
+}
+.yellow{
+    color: rgb(67, 162, 241);
+}
+.basic{
+    width: 35%;
+}
+.hireme{
+    background-color: dodgerblue;
+    border: none;
+    width: 180px;
+    height: 25px;
+    cursor: pointer;
+    color: white;
+    border-radius: 20px;
+}
+.my-image{
+    width: 35%;
+}
+.my-img{
+   
+    margin-left: 260px;
+    margin-top: -150px;
+    width: 300px;
+    height: 500px;
+    
+}
+.section{
+    text-align: center;
+}
+.edu{
+    width: 700px;
+    opacity: 0.7;
+    margin: 0 auto;
+}
+.box{
+    padding: 50px;
+    
+    margin-top: 20px;
+    width: 82%;
+    height: 500px;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-evenly;
+}
+.flexbox{
+    display: flex;
+}
+.institute-details{
+    width: 20%;
+
+
+}
+.certificate-details{
+    width: 80%;
+    
+
+}
